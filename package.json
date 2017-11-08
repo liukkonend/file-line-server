@@ -1,0 +1,19 @@
+{
+  "name": "file-line-server",
+  "version": "0.1.0",
+  "description": "Serves line of a file by line number.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liukkonend/file-line-server.git"
+  },
+  "author": "Dustin Liukkonen <deeluke@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liukkonend/file-line-server/issues"
+  },
+  "homepage": "https://github.com/liukkonend/file-line-server#readme"
+}
